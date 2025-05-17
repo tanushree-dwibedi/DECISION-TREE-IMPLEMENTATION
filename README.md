@@ -37,3 +37,11 @@ Conclusion: Analyzing model performance and understanding limitations.
 This task provides hands-on experience with model implementation and strengthens concepts such as entropy, information gain, overfitting, and pruning. Through this internship task, we also enhance our understanding of how decision tree classifiers function internally and how they can be visualized for better interpretability.
 
 By the end of this notebook, we not only implement a machine learning model but also analyze it comprehensively, showcasing our data science skills in action.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cd49752c-df6c-4ea7-803a-4d08462b62bb)
+![Image](https://github.com/user-attachments/assets/db53a02e-0aa7-4b68-bfc1-0b28882bd57a)
+![Image](https://github.com/user-attachments/assets/f6eae81b-037f-4551-a206-5c41253a8dd8)
+![Image](https://github.com/user-attachments/assets/c36e1bcf-acc2-47f3-aae5-a0a4d586f682)
+![Image](https://github.com/user-attachments/assets/15b3cb92-e582-471b-8825-4e418c7a51a0)
